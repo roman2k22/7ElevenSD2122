@@ -3,9 +3,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>7 Eleven</title>
+   
 </head>
 <body>
-    <img src="" alt="">
+    <img src="../assets/img/layouts.jpg" style="width:100%" >
 </body>
 </html>
